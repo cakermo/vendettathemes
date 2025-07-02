@@ -126,6 +126,13 @@
         "PLUM_26": "#370d57"
        
     },
+
+    "background": {
+        "blur": 0.1,
+        "url": "https://i.imgur.com/XcsVsRb.jpeg",
+        "alpha": 0.4
+    },
+    
     "plus": {
         "version": 0,
         "unreadBadgeColor": "#a565f7",
